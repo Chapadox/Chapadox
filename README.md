@@ -6,15 +6,15 @@
 
     📍 Brasilia
      
-    .Focado em Javascript 💻 </>
+    <> Focado em Javascript 💻 </>
     
-    .Python 📌 </>
+    <> Python 📌 </>
     
-    .14 Anos 💯 </>
+    <> 14 Anos 💯 </>
     
-    .Desenvolvimento WEB ✔️ </>
+    <> Desenvolvimento WEB ✔️ </>
     
-    .Interesse em Mobile 📱 </>
+    <> Interesse em Mobile 📱 </>
     
 <!--
 **Chapadox/Chapadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
