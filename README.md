@@ -6,7 +6,7 @@
 
     📍 Brasilia
      
-    .Focado em Javascript 💻
+    <p>.Focado em Javascript 💻</p>
     
     .Python 📌
     
