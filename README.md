@@ -1,4 +1,4 @@
-### Bem Vindo *👨‍💻*
+### Bem Vindo **👨‍💻**
 
 <!--
 **Chapadox/Chapadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
