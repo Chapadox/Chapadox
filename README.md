@@ -17,7 +17,7 @@
     <> Interesse em Mobile 📱 </>
     
 ## Github Stats
-[![Chapadox GitHub stats](https://github-readme-stats.vercel.app/api?username=chapadox&show_icons=true&theme=tokyonight)]
+![Chapadox GitHub stats](https://github-readme-stats.vercel.app/api?username=chapadox&show_icons=true&theme=tokyonight)
 
 
 
