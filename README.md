@@ -16,6 +16,11 @@
     
     <> Interesse em Mobile 📱 </>
     
+## Github Stats
+[![Chapadox GitHub stats](https://github-readme-stats.vercel.app/api?username=chapadox&show_icons=true&theme=tokyonight)]
+
+
+
 <!--
 **Chapadox/Chapadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --
-https://media1.tenor.com/images/9969d2bc836ee216a3319d0c15d8ad35/tenor.gif?itemid=16242995
