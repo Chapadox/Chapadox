@@ -18,7 +18,7 @@
     
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="21" /> Github Stats</h3 >
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chapadox&show_icons=true&theme=tokyonight&text_color=808080&icon_color=6495ED&title_color=FFFFFF&border_color=6495ED&border_radius=9&include_all_commits=true&custom_title=Chapadox Status📊&text_bold=true&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chapadox&show_icons=true&theme=tokyonight&text_color=808080&icon_color=6495ED&title_color=FFFFFF&border_color=6495ED&border_radius=9&include_all_commits=true&custom_title=Chapadox Status📊&text_bold=true&layout=compact"/>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapadox&layout=demo&icon_color=6495ED&border_color=6495ED&border_radius=9.0&layout=compact&theme=tokyonight&text_color=FFFFFF&title_color=FFFFFF" />
