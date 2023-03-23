@@ -16,7 +16,7 @@
     <> NINJA CODE ☯️ </>
 
     
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="21" /> Github Stats            <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="21 </h3>" /> 
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="21" /> Github Stats</h3 >
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chapadox&show_icons=true&theme=tokyonight&text_color=808080&icon_color=6495ED&title_color=FFFFFF&border_color=6495ED&border_radius=9.0&include_all_commits=true&custom_title=Chapadox Status📊&text_bold=true&layout=compact"/>
