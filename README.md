@@ -14,6 +14,8 @@
     <> INTERESSE EM MOBILE 📱 </>
 
     <> NINJA CODE ☯️ </>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
     
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="21" /> Github Stats</h3 >
